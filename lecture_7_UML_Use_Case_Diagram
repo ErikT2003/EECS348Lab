@@ -1,0 +1,58 @@
+			A BRIEF INTRODUCNTION TO UML USE CASE MODELING
+
+	USE CASES MODELING: 
+	applicable to many model, not all but alot, why? what other model is there?
+	Ojective: doc and iden functional requirementss of sw product
+		  +use cases captures interactions between system actors to achieve user goal
+		  +use cases capture who(actor) does what (interaction) with the system with that purpose (goal) without dealing system internal
+		  +complete set of use cases specifies all different ways to achieve goal within the system->defines all behavior required of the system
+
+	UCM AT GLANCE:
+	def use_case{ sequence of transactions performed by system get observable result of value for user}
+	+system being used, treated as a black-box
+	+acter or user involved, who that interact with system
+	+Functional goal, actor get from using system
+
+	UCM:
+	id factors interact with system-connect stake holder need
+	id boundaries of system
+	id and comm system function
+
+	a system can have many cases, and we need to have doc to know each case functionality for user
+
+	HOW TO FIND ACTORS:
+	def actors{people interacti with system} 
+		+includes maintenace staff
+		+other systems, existing legacy systems
+		+hardware and software inter with system
+
+	GOALS:
+	goal and test case is not the same, test case describe system functionalities, and relationship with actors
+	goal must be achieve, goal is the value, the output, result the system want, some feature, cases is important but it is not a goal: such as give passcode to use gmail, gmail service is the goal passcode is not
+
+	PRO OF UCM:
+	provide context for req: +put system requirement in logical sequences, show why system is needed, verify requirements is meet
+	easy to understand: for customer and user, explain what it does, and check with user understanding,share agreements
+
+	LIFECYCLE OF USE CASE:
+	id/dis use case - brief description of use case - outline of events for use case - detail description
+		1)id/des potential use cases
+		2)brief des what the system basically does
+		3)outline how the system works from first interaction to getting the goal
+		4)detail des the functionalities of the outline, the flow structure, id steps, make step events, and descripe steps completely
+
+	UML SEQUENCE DIAGRAMS: precisely specify a use case behavior
+	
+	ARROW IS DIALOG: 
+	
+	ALTERNATE COURSES OF ACTIONS: we have basic flow and alternative flow
+	
+	STRUCTURING USE CASES:
+	partion one big use cases into smaller parts Pros:easy understand, maintain, sharing with other use case
+	primary mechanisms "include","extend" generalization
+
+
+
+
+
+

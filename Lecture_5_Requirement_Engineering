@@ -1,0 +1,53 @@
+
+
+
+Thursday, February 1st 24: 2:42PM
+
+Continue from same lecture last session:
+
+learning environment, like presciption and rail road 
+domain engineering is getting familiar to relation ships between things
+
+	Examples of modeling requirements
+	Example 2: A study abroud system
+a study abroad management system
+	A Domain Model: another example
+the moviebd.org the UML notation (unified Modeling Language)-standart notation for modeling real-world objects as first step designing an OOP system
+
+
+
+	Requirements Elicitation
+objective: identify the key stakeholders, communicate & collaborate to identify and document product features
+
+stakeholder-driven: rely on stakeholder to design products, and their feedback as dev product to make any change necessary
++through interview, observation, ethnographic studies(study people in their environment), group sessions etc
++important stakeholders: people who has influence over finish product, 
++build shared understanding of problems, critical to complete, adequate realistic requirments
++stakeholder's analysis based on their role, interest, type of knowledge they contribute-no necessay always right, know what they know, want 
+
+artifact-driven: gather info of the was-system and tobe-system, follow existing doc to understand sys as it was
++background, collect data, survey, reports, scenarios, storyboards, etc
+
+	Types of Requirements
+Functional and Non-Functional requirements, and Constraints
+-Fucntional:
+	+what aspects, what the system should do? focus on features of the products
+-Non-Functional:
+	+define constrains that products must meet its requirements: performance,security,protability,reliability,interoperability,etc...
+	+constraints: ex: specific language to build the product, how should it fit with the requirements, what frame work will be implemented.
+
+	
+	Example of Functional requirements-medical applications:
+allow record, view medical histories, generate report on patients data, order medications, schedule appointment, communicate with healthcare provider.
+
+	Example of Non-functional requirement(quality) requirements-medical applications:
+application secure and protect data, reliable and available 24/7, user friendly, meet appllicable regulations
+
+	Example of Constraints:
+application use open-source software, hosted on-premises, meet deadline, fit with budget, compatible with existing health care system
+
+		REQUIREMENTS MODELING AND DOCUMENTATION
+
+	Requirements documentations
+detailing, structuring, documenting characteristics of new software
+ 
